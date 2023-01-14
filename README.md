@@ -3,9 +3,9 @@
 <p>這是團隊部分我自己的部分</p><br>
 網址 https://smallgirl6.github.io/Taiwan-wearher/taiwan_weather.html<br>
 <br>
-<br>
+
 ![weather-map-Google-Chrome-2023-01-15-03-59-18](https://user-images.githubusercontent.com/111422800/212491712-eeb287f1-6c63-4b22-bac4-4d8cfe90d50d.gif)
-<br>
+
 <br>
 <h2>團隊作品</h2>
 網址https://github.com/smallgirl6/team-project><br>
